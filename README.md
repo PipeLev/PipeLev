@@ -31,7 +31,7 @@ Mis lenguajes de programación, editores de código y herramientas de productivi
 
 *¡Haz clic en cualquiera de los logos para ir a mis perfiles!*
 
-📢 **PRÓXIMAMENTE CREACIÓN DE CONTENIDO**
+📢 **PRÓXIMAMENTE CREACIÓN DE CONTENIDO** (por aburrimiento)
 
 <p align="center">
 
