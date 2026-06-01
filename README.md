@@ -22,7 +22,7 @@
 Mis lenguajes de programación, editores de código y herramientas de productividad:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,latex,github,vscode,notion,discord,mint,windows,ai,pr,)](https://skillicons.dev)"
+  <img src="https://skillicons.dev/icons?i=python,latex,github,vscode,notion,discord,mint,windows,ai,pr,)](https://skillicons.dev)"
 </p>
 
 ---
