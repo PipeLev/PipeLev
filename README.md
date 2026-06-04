@@ -24,24 +24,3 @@ Mis lenguajes de programación, editores de código y herramientas de productivi
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,latex,github,vscode,notion,discord,mint,windows,ai,pr,)](https://skillicons.dev)"
 </p>
-
----
-
-## 🌐 Redes Sociales / Social Media
-
-*¡Haz clic en cualquiera de los logos para ir a mis perfiles!*
-
-📢 **PRÓXIMAMENTE CREACIÓN DE CONTENIDO** (por aburrimiento)
-
-<p align="center">
-
-  <a href="https://www.youtube.com/@pipelev" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a> &nbsp;
-  <a href="https://www.twitch.tv/pipelev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
-  </a> &nbsp;
-  <a href="https://kick.com/pipelev" target="_blank">
-    <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black" alt="Kick" />
-  </a>
-</p>
