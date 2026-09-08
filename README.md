@@ -10,7 +10,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🇺🇸 English</h3>
-      <p>Hello! I am a first-year student of <strong>Civil Engineering in Computer Science</strong>. Me apasiona aprender sobre la creación de soluciones tecnológicas estructuradas y eficientes. Me gusta editar, jugar videojuegos y aprender nuevos aspectos sobre la informática.</p>
+      <p>Hi! I am a first-year Civil Engineering in Informatics student. I am passionate about learning how to create structured and efficient technological solutions. I enjoy editing, playing video games, and learning new things about computer science.</p>
     </td>
   </tr>
 </table>
