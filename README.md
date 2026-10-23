@@ -126,19 +126,3 @@ I enjoy experimenting with ideas, learning new tools, and improving my skills st
     <img src="https://img.shields.io/badge/YOUTUBE-101216?style=for-the-badge&logo=youtube&logoColor=E27077" alt="YouTube" />
   </a>
 </p>
-
----
-
-<div align="center">
-
-### END OF TRANSMISSION
-
-**BUILD YOUR OWN FUTURE.**
-
-<sub>Construyendo mi camino, una idea a la vez.</sub>
-
-<sub>Building my path, one idea at a time.</sub>
-
-`SKY` &nbsp; ◈ &nbsp; `VIOLET` &nbsp; ◈ &nbsp; `PULSE`
-
-</div>
