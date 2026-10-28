@@ -42,7 +42,7 @@ I enjoy experimenting with ideas, learning new tools, and improving my skills st
 <p align="center">
   <img src="https://img.shields.io/badge/CREATIVITY-0D1117?style=for-the-badge&labelColor=0D1117&color=7DD3FC" alt="Creativity" />
   <img src="https://img.shields.io/badge/TECHNOLOGY-0D1117?style=for-the-badge&labelColor=0D1117&color=8B2E8B" alt="Technology" />
-  <img src="https://img.shields.io/badge/EVOLUTION-0D1117?style=for-the-badge&labelColor=0D1117&color=E27077" alt="Evolution" />
+  <img src="https://img.shields.io/badge/EVOLUTION-0D1117?style=for-the-badge&labelColor=0D1117&color=FF0045" alt="Evolution" />
 </p>
 
 ---
@@ -52,14 +52,16 @@ I enjoy experimenting with ideas, learning new tools, and improving my skills st
 <sub>TOOLS · WORKFLOW · DIGITAL CREATION</sub>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-101216?style=for-the-badge&logo=python&logoColor=7DD3FC" alt="Python" />
-  <img src="https://img.shields.io/badge/LaTeX-101216?style=for-the-badge&logo=latex&logoColor=8B2E8B" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/Git-101216?style=for-the-badge&logo=git&logoColor=E27077" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-101216?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/LaTeX-101216?style=for-the-badge&logo=latex&logoColor=008080" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Git-101216?style=for-the-badge&logo=git&logoColor=F03C2E" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-101216?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-101216?style=for-the-badge&logo=visualstudiocode&logoColor=7DD3FC" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Notion-101216?style=for-the-badge&logo=notion&logoColor=FFFFFF" alt="Notion" />
-  <img src="https://img.shields.io/badge/Discord-101216?style=for-the-badge&logo=discord&logoColor=8B2E8B" alt="Discord" />
-  <img src="https://img.shields.io/badge/Linux-101216?style=for-the-badge&logo=linux&logoColor=E27077" alt="Linux" />
+  <img src="https://img.shields.io/badge/Notion-101216?style=for-the-badge&logo=notion&logoColor=000000" alt="Notion" />
+  <img src="https://img.shields.io/badge/Discord-101216?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
+  <img src="https://img.shields.io/badge/fedora-101216?style=for-the-badge&logo=fedora&logoColor=51A2DA" alt="Linux" />
+  <img src="https://img.shields.io/badge/OBS-101216?style=for-the-badge&logo=obsstudio&logoColor=302E31" alt="OBS" />
+  <img src="https://img.shields.io/badge/Filmora-101216?style=for-the-badge&logo=wondersharefilmora&logoColor=07273D" alt="Editor" />
 </p>
 
 <div align="center">
