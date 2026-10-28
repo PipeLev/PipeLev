@@ -112,17 +112,3 @@ I enjoy experimenting with ideas, learning new tools, and improving my skills st
 </p>
 
 ---
-
-## 05 / Social Media
-
-<p align="center">
-  <a href="https://kick.com/pipelev">
-    <img src="https://img.shields.io/badge/KICK-101216?style=for-the-badge&logo=kick&logoColor=7DD3FC" alt="Kick" />
-  </a>
-  <a href="https://www.twitch.tv/pipelev">
-    <img src="https://img.shields.io/badge/TWITCH-101216?style=for-the-badge&logo=twitch&logoColor=8B2E8B" alt="Twitch" />
-  </a>
-  <a href="https://www.youtube.com/@pipelev">
-    <img src="https://img.shields.io/badge/YOUTUBE-101216?style=for-the-badge&logo=youtube&logoColor=E27077" alt="YouTube" />
-  </a>
-</p>
