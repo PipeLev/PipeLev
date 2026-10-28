@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/PipeLev/PipeLev/blob/54567921e9b48bb5f06a4fb66824bc3af4448393/Banner.png" width="900" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
-</p>
+<img src="https://github.com/PipeLev/PipeLev/blob/54567921e9b48bb5f06a4fb66824bc3af4448393/Banner.png" width="100%">
 
 <div align="center">
 
