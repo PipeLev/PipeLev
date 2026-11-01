@@ -47,29 +47,31 @@ I enjoy experimenting with ideas, learning new tools, and improving my skills st
 
 ---
 
-## 02 / TECHNICAL ENVIRONMENT
+02 / TECHNICAL ENVIRONMENT
 
-<sub>TOOLS · WORKFLOW · DIGITAL CREATION</sub>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-101216?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/LaTeX-101216?style=for-the-badge&logo=latex&logoColor=008080" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/Git-101216?style=for-the-badge&logo=git&logoColor=F03C2E" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-101216?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-101216?style=for-the-badge&logo=visualstudiocode&logoColor=7DD3FC" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Notion-101216?style=for-the-badge&logo=notion&logoColor=000000" alt="Notion" />
-  <img src="https://img.shields.io/badge/Discord-101216?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
-  <img src="https://img.shields.io/badge/fedora-101216?style=for-the-badge&logo=fedora&logoColor=51A2DA" alt="Linux" />
-  <img src="https://img.shields.io/badge/OBS-101216?style=for-the-badge&logo=obsstudio&logoColor=302E31" alt="OBS" />
-  <img src="https://img.shields.io/badge/Filmora-101216?style=for-the-badge&logo=wondersharefilmora&logoColor=07273D" alt="Editor" />
-</p>
+<sub>HARDWARE · SOFTWARE · DIGITAL WORKFLOW</sub>
 
 <div align="center">
 
-`LEARN` &nbsp; ◈ &nbsp; `EXPERIMENT` &nbsp; ◈ &nbsp; `CREATE`
+<img src="https://img.shields.io/badge/Python-101216?style=for-the-badge&logo=python&logoColor=7DD3FC" />
+<img src="https://img.shields.io/badge/LaTeX-101216?style=for-the-badge&logo=latex&logoColor=C0C0C0" />
+<img src="https://img.shields.io/badge/Git-101216?style=for-the-badge&logo=git&logoColor=E63946" />
+<img src="https://img.shields.io/badge/GitHub-101216?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Vercel-101216?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/VS_Code-101216?style=for-the-badge&logo=visualstudiocode&logoColor=7DD3FC" />
+<img src="https://img.shields.io/badge/Notion-101216?style=for-the-badge&logo=notion&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Discord-101216?style=for-the-badge&logo=discord&logoColor=7DD3FC" />
+<img src="https://img.shields.io/badge/Fedora-101216?style=for-the-badge&logo=fedora&logoColor=7DD3FC" />
+<img src="https://img.shields.io/badge/OBS-101216?style=for-the-badge&logo=obsstudio&logoColor=C0C0C0" />
+<img src="https://img.shields.io/badge/Filmora-101216?style=for-the-badge&logo=wondersharefilmora&logoColor=FFFFFF" />
 
 </div>
 
+<div align="center">
+
+LEARN   ◈   EXPERIMENT   ◈   CREATE   ◈   EVOLVE
+
+</div>
 ---
 
 ## 03 / PROJECT ARCHIVE
@@ -99,18 +101,19 @@ I enjoy experimenting with ideas, learning new tools, and improving my skills st
 
 ## 04 / GITHUB ANALYTICS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PipeLev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=080A0F&title_color=7DD3FC&icon_color=E27077&text_color=E6EDF3&border_radius=4" height="180" alt="PipeLev GitHub overview" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PipeLev&layout=compact&hide_border=true&bg_color=080A0F&title_color=8B2E8B&text_color=E6EDF3&border_radius=4" height="160" alt="PipeLev most used languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PipeLev&theme=github_dark&utcOffset=-3" height="160" alt="PipeLev productive time" />
-</p>
+<img src="https://github-stats-extended.vercel.app/api?username=PipeLev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=080A0F&title_color=C0C0C0&icon_color=E63946&text_color=E6EDF3&border_radius=4" height="180" alt="PipeLev GitHub Stats" />
 
+<br/>
 
-<p align="center">
-  <sub>GITHUB DATA SYSTEM · LIVE METRICS · PIPELEV</sub>
-</p>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PipeLev&layout=compact&hide_border=true&langs_count=8&bg_color=080A0F&title_color=7DD3FC&text_color=E6EDF3&border_radius=4" height="180" alt="PipeLev Top Languages" />
 
+</div>
+
+<div align="center">
+
+<sub>GITHUB DATA SYSTEM · LIVE METRICS · PIPELEV</sub>
+
+</div>
 ---
