@@ -72,6 +72,7 @@ I enjoy experimenting with ideas, learning new tools, and improving my skills st
 LEARN   ◈   EXPERIMENT   ◈   CREATE   ◈   EVOLVE
 
 </div>
+
 ---
 
 ## 03 / PROJECT ARCHIVE
